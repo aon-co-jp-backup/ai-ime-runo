@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # ai-ime-runo
 
 open-runoシリーズの一員。前後の文脈から変換候補をAIが用意する日本語IME(ひな型段階)。
